@@ -1,7 +1,7 @@
 import random
 import math
 
-NUM_CLUSTERS = 3
+NUM_CLUSTERS = 6
 TOTAL_DATA = 150
 SETOSA_SAMPLE = 15 
 VERSICOLOR_SAMPLE = 80
