@@ -6,7 +6,7 @@ TOTAL_DATA = 150
 SETOSA_SAMPLE = 15 
 VERSICOLOR_SAMPLE = 80
 VIRGINICA_SAMPLE= 120 
-BIG_NUMBER = math.pow(100, 100)
+#BIG_NUMBER = math.pow(100, 100)
 
 SAMPLES = [
             [5.1,3.5,1.4,0.2],    #setosa
